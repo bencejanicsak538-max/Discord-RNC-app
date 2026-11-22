@@ -1,0 +1,9 @@
+# Személyes beállítások (Client ID, profilok, képek) - NE kerüljön GitHubra
+rpc_config.json
+error.log
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
